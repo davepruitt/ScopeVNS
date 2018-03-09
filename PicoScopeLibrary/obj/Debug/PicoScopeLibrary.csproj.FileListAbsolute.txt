@@ -1,0 +1,47 @@
+c:\Users\labuser\documents\visual studio 2015\Projects\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.dll
+c:\Users\labuser\documents\visual studio 2015\Projects\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.pdb
+c:\Users\labuser\documents\visual studio 2015\Projects\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.dll
+c:\Users\labuser\documents\visual studio 2015\Projects\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.pdb
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.dll
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.pdb
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.dll
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.pdb
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.dll
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.dll
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.pdb
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.xml
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\labuser\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.xml
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.pdb
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.pdb
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.xml
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.xml
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\PicoScopeLibrary.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.xml
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Wpf.xml
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\bin\Debug\OxyPlot.Xps.xml
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.csprojResolveAssemblyReference.cache
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.csproj.CoreCompileInputs.cache
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary\obj\Debug\PicoScopeLibrary.pdb

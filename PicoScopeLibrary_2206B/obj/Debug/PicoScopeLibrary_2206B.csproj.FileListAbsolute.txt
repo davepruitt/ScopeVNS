@@ -1,0 +1,11 @@
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\bin\Debug\PicoScopeLibrary_2206B.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\bin\Debug\PicoScopeLibrary_2206B.pdb
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.csprojResolveAssemblyReference.cache
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary_2206B\bin\Debug\PicoScopeLibrary_2206B.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary_2206B\bin\Debug\PicoScopeLibrary_2206B.pdb
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.csprojResolveAssemblyReference.cache
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.csproj.CoreCompileInputs.cache
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.dll
+Z:\TBI\Behavior Code\ScopeVNS\Version_5_0\Code\ScopeVNS\PicoScopeLibrary_2206B\obj\Debug\PicoScopeLibrary_2206B.pdb

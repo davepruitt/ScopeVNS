@@ -1,0 +1,5 @@
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\bin\Release\PicoScopeLibrary_2206B.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\bin\Release\PicoScopeLibrary_2206B.pdb
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\obj\Release\PicoScopeLibrary_2206B.csprojResolveAssemblyReference.cache
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\obj\Release\PicoScopeLibrary_2206B.dll
+C:\Users\dtp110020\Documents\scopevns\ScopeVNS\PicoScopeLibrary_2206B\obj\Release\PicoScopeLibrary_2206B.pdb

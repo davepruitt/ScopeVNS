@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopeVNS", "ScopeVNS\ScopeVNS.csproj", "{BF3BCFD8-D906-419F-B79C-6384A4C870C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoScopeLibrary", "PicoScopeLibrary\PicoScopeLibrary.csproj", "{7B474E30-5B65-4BC1-87B9-63B346850F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoScopeLibrary_2206B", "PicoScopeLibrary_2206B\PicoScopeLibrary_2206B.csproj", "{495FAF9B-93BA-4A88-82B3-1766EB1C2103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3BCFD8-D906-419F-B79C-6384A4C870C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3BCFD8-D906-419F-B79C-6384A4C870C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3BCFD8-D906-419F-B79C-6384A4C870C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3BCFD8-D906-419F-B79C-6384A4C870C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B474E30-5B65-4BC1-87B9-63B346850F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B474E30-5B65-4BC1-87B9-63B346850F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B474E30-5B65-4BC1-87B9-63B346850F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B474E30-5B65-4BC1-87B9-63B346850F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495FAF9B-93BA-4A88-82B3-1766EB1C2103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495FAF9B-93BA-4A88-82B3-1766EB1C2103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495FAF9B-93BA-4A88-82B3-1766EB1C2103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495FAF9B-93BA-4A88-82B3-1766EB1C2103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
